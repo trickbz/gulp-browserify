@@ -1,0 +1,32 @@
+{
+  "name": "backbone-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backbone": "^1.3.3",
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-eslint": "^2.0.0",
+    "gulp-graph": "0.0.3",
+    "gulp-inject": "^4.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.5.2",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.4",
+    "rename": "^1.0.3",
+    "run-sequence": "^1.2.1",
+    "underscore": "^1.8.3"
+  }
+}

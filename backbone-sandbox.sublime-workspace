@@ -1,0 +1,1459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bss",
+				"browserSync"
+			],
+			[
+				"bs",
+				"browserSync"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"c",
+				"calc"
+			],
+			[
+				"rej",
+				"reject"
+			],
+			[
+				"gen",
+				"gen1"
+			],
+			[
+				"ge",
+				"gen"
+			],
+			[
+				"ba",
+				"babel-polyfill"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"xm",
+				"xmen"
+			],
+			[
+				"x",
+				"xmen"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"e",
+				"expr1	Template string expression (ES6)"
+			],
+			[
+				"ex",
+				"expr	Template string expression (ES6)"
+			],
+			[
+				"p",
+				"param	js.template-string.var"
+			],
+			[
+				"pro",
+				"prop	prop"
+			],
+			[
+				"w",
+				"walk"
+			],
+			[
+				"fu",
+				"fullname"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/views/app.js",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backbone-sandbox.sublime-project",
+			"settings":
+			{
+				"buffer_size": 1755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/index.html",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "gulp",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"List",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"babel-node",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"babel-node",
+				""
+			]
+		],
+		[
+			[
+				[
+					"babel-node",
+					""
+				],
+				[
+					"webpack",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"webpack",
+				""
+			]
+		],
+		[
+			[
+				[
+					"babel-node",
+					""
+				],
+				[
+					"webpack.cmd",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"webpack.cmd",
+				""
+			]
+		],
+		[
+			[
+				[
+					"gulp",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"gulp",
+				""
+			]
+		],
+		[
+			[
+				[
+					"webpack",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"webpack",
+				""
+			]
+		],
+		[
+			[
+				[
+					"webpack",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"webpack",
+				""
+			]
+		],
+		[
+			[
+				[
+					"webpack",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"webpack",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "setting",
+		"selected_items":
+		[
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"enablepa",
+				"Package Control: Enable Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"dpa",
+				"Package Control: Disable Package"
+			],
+			[
+				"lintthis",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"conflict",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"lintthi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"",
+				"ANF: Delete Current File"
+			],
+			[
+				"openin",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"package control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"open fi",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"confli qui",
+				"FindKeyConflicts: (Direct) Conflicts to Quick Panel"
+			],
+			[
+				"linter us",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"enablee",
+				"Package Control: Enable Package"
+			],
+			[
+				"key",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"dipla",
+				"Package Control: Disable Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"enablel",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lp",
+				"Package Control: List Packages"
+			],
+			[
+				"settings u",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"key binding",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"snippeth",
+				"Snippet: Object Method"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"keyboa",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"hun",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scopeh",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"helper",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"history",
+				"Local History: Replace"
+			],
+			[
+				"his",
+				"Local History: Browse"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"ltv",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"clipboard",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"kbh",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"choo",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"cndpas",
+				"Clipboard Manager: Next & Paste"
+			],
+			[
+				"clipboardma",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"paste",
+				"Clipboard Manager: Paste"
+			],
+			[
+				"clip hi",
+				"Clipboard Manager: Show History"
+			],
+			[
+				"lint save",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"lt",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"enableli",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint thi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"json",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"all",
+				"File: Close All"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"froam",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"makr",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"buld",
+				"Build: Cancel"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"lpa",
+				"Package Control: List Packages"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"build ",
+				"Build: New Build System"
+			],
+			[
+				"linter co",
+				"SublimeLinter: No Column Only Marks Gutter"
+			],
+			[
+				"linter",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 400.0,
+		"history":
+		[
+			"size()",
+			"id()",
+			"windows()",
+			"windows",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/jsandbox/backbone-sandbox"
+	],
+	"file_history":
+	[
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/jsandbox/backbone-sandbox/node_modules/gulp/index.js",
+		"/C/jsandbox/backbone-sandbox/dest/build.js",
+		"/C/jsandbox/backbone-sandbox/backbone-sandbox.sublime-project",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/jsandbox/backbone-sandbox/package.json",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/C/jsandbox/backbone-sandbox/.eslintrc.js",
+		"/C/jsandbox/backbone-sandbox/src/greeting.js",
+		"/C/jsandbox/backbone-sandbox/src/index.html",
+		"/C/jsandbox/backbone-sandbox/src/app.js",
+		"/C/jsandbox/webpack_sandbox/dist/kaka/baba.ja/abab.js",
+		"/C/jsandbox/webpack-live-reload/webpack.config.js",
+		"/C/jsandbox/webpack-live-reload/src/index.html",
+		"/C/jsandbox/webpack-live-reload/src/calc/index.js",
+		"/C/jsandbox/webpack-live-reload/src/index.js",
+		"/C/jsandbox/webpack-live-reload/dist/index.html",
+		"/C/jsandbox/webpack-live-reload/src/friend/index.js",
+		"/C/jsandbox/webpack-live-reload/package.json",
+		"/C/jsandbox/webpack-live-reload/webpack-live-reload.sublime-project",
+		"/C/jsandbox/webpack-live-reload/src/friend/address.js",
+		"/C/jsandbox/webpack-live-reload/.eslintrc.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/jsandbox/webpack_sandbox/webpack.config.js",
+		"/C/jsandbox/webpack_sandbox/webpack_sandbox.sublime-project",
+		"/C/jsandbox/webpack_sandbox/index.html",
+		"/C/jsandbox/webpack_sandbox/package.json",
+		"/C/jsandbox/webpack_sandbox/src/index.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/jsandbox/webpack_sandbox/.eslintrc.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/google-search/google_search.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/Default (Windows).sublime-keymap",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/snippets/expr.sublime-snippet",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/snippets/prop.sublime-snippet",
+		"/C/jsandbox/webpack_sandbox/dist/bundle.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/snippets/js.template_string_expression.sublime-snippet",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/completions/trickbz.sublime-completions",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-snippet",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Installed Packages/Local History/settings/LocalHistory.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/LocalHistory.sublime-settings",
+		"/C/jsandbox/webpack_sandbox/test.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/snippets/strict.sublime-snippet",
+		"/C/jsandbox/webpack_sandbox/src/module.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/jsandbox/webpack/webpack.sublime-project",
+		"/C/jsandbox/webpack/index.js",
+		"/C/jsandbox/webpack/index.html",
+		"/C/jsandbox/webpack/webpack.config.js",
+		"/C/jsandbox/webpack/module.js",
+		"/C/jsandbox/webpack/.eslintrc.js",
+		"/C/jsandbox/webpack/bundle.js",
+		"/C/jsandbox/jsandbox/jsandbox.sublime-project",
+		"/C/jsandbox/jsandbox/webpack.config.js",
+		"/C/jsandbox/jsandbox/package.json",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/jsandbox/jsandbox/index.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/jsandbox/jsandbox/'bundle.js'",
+		"/C/jsandbox/jsandbox/bundle.js",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/snippets/log.sublime-snippet",
+		"/C/jsandbox/jsandbox/modules/module.js",
+		"/C/jsandbox/jsandbox/.babelrc",
+		"/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/jsandbox/jsandbox/.eslintrc",
+		"/E/Install/Text/Sublime/openWithSublimeExplorerMenu.bat",
+		"/C/Users/apetrenko/Downloads/DownloadAttachment (6).doc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"console.assert"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"on",
+			"lint:client",
+			"browserify:client",
+			"\n		",
+			"\\",
+			"cals",
+			"Qxk",
+			"complete",
+			"autocom",
+			"sym1",
+			"assert",
+			"obj",
+			"it",
+			"ctrl+shift+g",
+			"ctrl+shift",
+			"mama",
+			"isDone",
+			"false",
+			"options",
+			"options.chunkOrigins",
+			"options.\\w+",
+			"`",
+			"'",
+			"`",
+			"auto_complete_visible",
+			"ctrl+space",
+			"auto_complete",
+			"source",
+			"scope",
+			"C",
+			"\"",
+			"};",
+			"();",
+			"colo",
+			"\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/views/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai JSON+ (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tabs_extra_last_activated": 1464965580.95,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "backbone-sandbox.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tabs_extra_last_activated": 1464965572.14,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 36.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								945
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai JSON+ (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tabs_extra_last_activated": 1464965367.29,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai JSON+ (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tabs_extra_last_activated": 1464965188.51,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/apetrenko/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai JSON+ (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tabs_extra_last_activated": 1464965570.08,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.378166465621,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 278.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 216.0
+	},
+	"output.keybinding":
+	{
+		"height": 118.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "backbone-sandbox.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp/index.js",
+				"node_modules\\gulp\\index.js"
+			],
+			[
+				"pro",
+				"backbone-sandbox.sublime-project"
+			],
+			[
+				"project",
+				"backbone-sandbox.sublime-project"
+			],
+			[
+				".eslin",
+				".eslintrc.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"we",
+				"webpack.config.js"
+			],
+			[
+				"inde",
+				"src\\index.js"
+			],
+			[
+				".",
+				".eslintrc.js"
+			],
+			[
+				"in",
+				"src\\index.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"ind",
+				"src\\index.js"
+			],
+			[
+				"ht",
+				"index.html"
+			],
+			[
+				"cond",
+				"C:\\Users\\apetrenko\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\CodeFormatter.sublime-settings"
+			],
+			[
+				"p",
+				"webpack_sandbox.sublime-project"
+			],
+			[
+				"proj",
+				"webpack_sandbox.sublime-project"
+			],
+			[
+				"mo",
+				"src\\module.js"
+			],
+			[
+				"mod",
+				"src\\module.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\jsandbox\\webpack_sandbox\\webpack_sandbox.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
